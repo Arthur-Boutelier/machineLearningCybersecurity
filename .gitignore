@@ -8,3 +8,4 @@ mlartifacts/
 mlruns/
 !mlruns.zip
 mlflow.db
+etc/
