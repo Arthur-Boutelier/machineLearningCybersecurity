@@ -4,3 +4,8 @@ Lib/
 Scripts/
 share/
 pyvenv.cfg
+mlartifacts/
+mlruns/
+!mlruns.zip
+mlflow.db
+etc/
